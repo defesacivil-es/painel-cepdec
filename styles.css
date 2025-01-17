@@ -34,18 +34,18 @@ body {
 }
 
 .header a {
-    height: 60px;
+    height: 80px;
 }
 
 .header img {
-    height: 60px;
+    height: 80px;
     width: auto;
 }
 
 .header h1 {
     color: var(--color-gray);
     text-align: center;
-    font-size: 2rem;
+    font-size: 3rem;
     margin: 0 1rem;
 }
 
@@ -102,7 +102,7 @@ body {
     }
 
     .header img {
-        height: 40px;
+        height: 80px; /* Aumentado de 40px para 60px */
         margin: 0.5rem 0;
     }
 
